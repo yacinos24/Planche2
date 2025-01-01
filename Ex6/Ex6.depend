@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735674480 source:c:\users\yassine\desktop\cpi2s1\c++\tp2\ex6\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
